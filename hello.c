@@ -2,5 +2,6 @@
 
 int main(void)
 {
-asdf
+printf("hello\n");
+
 }
